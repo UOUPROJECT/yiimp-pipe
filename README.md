@@ -1,5 +1,5 @@
 # yiimp-pipe
-modified yiimp supported pipe algo. 
+modified yiimp pipe algo supported. 
 
 You have two ways to configure your pool:
 
